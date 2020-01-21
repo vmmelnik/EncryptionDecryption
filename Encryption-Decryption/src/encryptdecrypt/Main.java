@@ -40,7 +40,6 @@ public class Main {
 		String lastName = "null";
 		//firstName.isEmpty();
 		System.out.println((firstName.isEmpty() ? "" : firstName) +  " " + ("null".equals(lastName) ? "" : lastName));
-		//+ " " + "null".equals(lastName) ? "" : lastName
 		
 	}
 	
